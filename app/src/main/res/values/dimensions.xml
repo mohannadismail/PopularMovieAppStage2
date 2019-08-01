@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="mainPosterLayoutWidth">170dp</dimen>
+    <integer name="mainPosterLayoutWidthInt">170</integer>
+
+    <dimen name="floatingActionButtonFavorite">48dp</dimen>
+
+    <dimen name="posterWidth">180dp</dimen>
+    <dimen name="posterHeight">300dp</dimen>
+
+
+    <integer name="trailerWidth">150</integer>
+    <integer name="trailerHeight">120</integer>
+</resources>
